@@ -1,4 +1,25 @@
 
+.navbar {
+    background: linear-gradient(#e3e3e3, #ffffff, #ffffff);
+    border: solid gray 1px;
+    border-left: hidden;
+    border-right: hidden;
+    border-top: hidden;
+}
+
+.nav-item a {
+    color: black;
+    font-size: 18px;
+}
+
+.dropdown-menu a {
+    color: grey;
+}
+
+.navbar-brand {
+    color: grey;
+}
+
 .header-img{
     height: 6rem;
     width: 6rem;
@@ -67,7 +88,6 @@
   }
 
 
-/* Form section style start*/
 form{
     max-width: 700px;
     margin: 0 auto;
@@ -77,4 +97,5 @@ textarea{
     resize: none;
 }
 /* Form section style end*/
+
 
