@@ -1,3 +1,4 @@
+
 .footer-clean {
     padding: 50px 0;
     background-color:#fff;
@@ -58,3 +59,15 @@
     font-size:13px;
     opacity:0.6;
   }
+
+
+/* Form section style start*/
+form{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+textarea{
+    resize: none;
+}
+/* Form section style end*/
