@@ -71,3 +71,12 @@ textarea{
     resize: none;
 }
 /* Form section style end*/
+/* Skelbimu section style start */
+.skelbimu_card{
+  max-height: 500px;
+}
+
+.skelbimu_card .card-body{
+  height: 135px;
+}
+/* Skelbimu section style end */
