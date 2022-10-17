@@ -1,0 +1,25 @@
+.container {
+    height: 100vh;
+}
+
+.navbar {
+    background: linear-gradient(#e3e3e3, #ffffff, #ffffff);
+    border: solid gray 1px;
+    border-left: hidden;
+    border-right: hidden;
+    border-top: hidden;
+
+}
+
+.nav-item a {
+    color: black;
+    font-size: 18px;
+}
+
+.dropdown-menu a {
+    color: grey;
+}
+
+.navbar-brand {
+    color: grey;
+}
