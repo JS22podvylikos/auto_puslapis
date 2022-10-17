@@ -1,0 +1,13 @@
+#p1 {
+    text-align: center;
+    background-image: url(https://i.pinimg.com/736x/41/12/6b/41126bab101c723bd80a01e4ff771e6f.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25%;
+}
+#p2{
+    height: 300px;
+    width: auto;
+    border-radius: 10%;
+}
